@@ -1,4 +1,4 @@
 # Web
-here is the clone project. <br>
-1.E-commerec Project
+E-commerce Clone Project<br>
+html & css only
 
